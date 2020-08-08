@@ -6,7 +6,7 @@ movingRect= createSprite(200, 200, 50, 50);
   extra=createSprite(50,50,150,200);
 fixedRect.shapeColor="orange";
 movingRect.shapeColor="orange";
-extra.shapeColor="lightblue";s
+extra.shapeColor="lightblue";
 }
 
 function draw() {
